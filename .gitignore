@@ -1,0 +1,11 @@
+output_*/
+*.jsonl
+*.json
+*.html
+__pycache__/
+*.py[cod]
+*.egg-info/
+venv/
+.venv/
+.DS_Store
+*.swp
